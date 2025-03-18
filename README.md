@@ -40,7 +40,7 @@ O fluxograma descreve o funcionamento da tela do jogo, desde o início até a in
 O fluxograma garante uma **interação contínua** e uma **experiência de jogo fluida**, assegurando o carregamento correto dos recursos e o tratamento adequado de erros. Dessa forma, o sistema mantém uma interface responsiva e funcional.
 
 ### Diagrama de Caso de Uso  
-<img src="https://github.com/user-attachments/assets/a5c73fc2-cfff-4615-8634-dd59d7a43714" width="600">
+<img src="https://github.com/user-attachments/assets/a90dd68f-2b05-467b-a22d-63ffa8b2e64a" width="600">
 
 #### Descrição  
 O diagrama de caso de uso representa o fluxo de visualização de cartas no jogo, descrevendo como o jogador interage com o sistema para acessar suas cartas.
